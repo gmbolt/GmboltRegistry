@@ -1,0 +1,13 @@
+[1]
+CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+Hungarian = "e91730f6-4275-51fb-a7a0-7064cfbd3b39"
+InvertedIndices = "41ab1584-1d38-5bbf-9106-f11c6c58b48f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
+NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"

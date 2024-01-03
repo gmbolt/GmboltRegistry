@@ -1,0 +1,3 @@
+name = "NetworkDistances"
+uuid = "9f172dfe-3e8c-48ce-b707-2c617ccde4b0"
+repo = "https://github.com/gmbolt/NetworkDistances.jl.git"
