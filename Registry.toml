@@ -1,0 +1,6 @@
+name = "GmboltRegistry"
+uuid = "f9a2729a-0030-46f8-aaf0-04242dc8596c"
+repo = "https://github.com/gmbolt/GmboltRegistry.git"
+description = "Local Julia registry for personal developmental code"
+
+[packages]
